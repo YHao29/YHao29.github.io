@@ -89,24 +89,10 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://yhao29.github.io/tags/test/</loc>
-    <lastmod>2023-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://yhao29.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2023-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yhao29.github.io/categories/test/</loc>
     <lastmod>2023-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
